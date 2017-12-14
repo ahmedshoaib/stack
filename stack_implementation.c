@@ -2,7 +2,7 @@
  #include<stdlib.h>
  
  
- struct Stack                    //data structure of stack
+ struct Stack                    //data structure of stack.
  {
 	 int top;
 	 int length;
